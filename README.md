@@ -6,7 +6,7 @@ I read the text file using pandas (read it as dataframe) but i miss some of data
 
 I read the text file as it is, i got all data.
 
-*In poth of them i tried to restore the missing spaces to the text using 'WordSegment' (makes it easy to use a different corpus for word segmentation), but wordsegment.segment lowercases all input and removes punctuation. 
+*In both of them i tried to restore the missing spaces to the text using 'WordSegment' (makes it easy to use a different corpus for word segmentation), but wordsegment.segment lowercases all input and removes punctuation. 
 
 *Jupyter notebook (create word segment.ipynb):
 
